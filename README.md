@@ -1,4 +1,4 @@
-# TF_azurerm_vnet_module
+# Azurerm_vnet
 
 Deploy Azure Virtual network with a dedicated Terraform module 
 
